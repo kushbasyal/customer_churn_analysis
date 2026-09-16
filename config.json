@@ -1,0 +1,11 @@
+{
+    "Data": {
+        "raw_data" : "data/raw/customer_churn.csv",
+        "clean_data" : "data/processed/clean_customer_churn.csv"
+    },
+    "Visuals" : {
+        "clustering" : "Visualizations/clustering",
+        "preprocessing" : "Visualizations/preprocessing",
+        "modeling" : "Visualizations/modeling"
+    }
+}

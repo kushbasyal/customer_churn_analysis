@@ -101,7 +101,7 @@ Key metrics, churn patterns, customer segments, and other findings are presented
 
 ## Power BI Dashboard
 
-*Dashboard preview will be added after the Power BI report is completed.*
+![Power BI Dashboard](/powerbi/dashboard.png)
 
 ---
 
